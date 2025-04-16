@@ -16,7 +16,7 @@ while True:
 
 data = json.dumps(matches)
 
-with open('match_data/matches.json', 'w') as file:
+with open('../match_data/matches.json', 'w') as file:
     file.write(data)
 
 

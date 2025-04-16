@@ -1,0 +1,301 @@
+id,name,age,points,hand,backhand,height,weight
+s0ag,Jannik Sinner,23,9930,R,2,191,77
+a0e2,Carlos Alcaraz,21,7720,R,2,183,74
+z355,Alexander Zverev,27,7595,R,2,198,90
+fb98,Taylor Fritz,27,5280,R,2,196,86
+d643,Novak Djokovic,37,4120,R,2,188,77
+d0co,Jack Draper,23,3870,L,2,193,85
+dh58,Alex de Minaur,26,3535,R,2,183,69
+re44,Andrey Rublev,27,3490,R,2,188,75
+mm58,Daniil Medvedev,29,3290,R,2,198,83
+rh16,Casper Ruud,26,3215,R,2,183,81
+m0ej,Lorenzo Musetti,23,3200,R,1,185,78
+pl56,Tommy Paul,27,3160,R,2,185,82
+r0dg,Holger Rune,21,3080,R,2,188,77
+f0f1,Arthur Fils,20,2820,R,2,185,83
+s0s1,Ben Shelton,22,2700,L,2,193,88
+te51,Stefanos Tsitsipas,26,2645,R,1,193,90
+d875,Grigor Dimitrov,33,2595,R,1,191,81
+td51,Frances Tiafoe,27,2550,R,2,188,86
+ag37,Felix Auger-Aliassime,24,2415,R,2,193,88
+m0fh,Tomas Machac,24,2250,R,2,183,74
+hh26,Ugo Humbert,26,2145,L,2,188,73
+c0au,Francisco Cerundolo,26,2075,R,2,185,80
+m0ni,Jakub Mensik,19,2032,R,2,196,87
+k0ah,Sebastian Korda,24,1970,R,2,196,82
+p09z,Alexei Popyrin,25,1860,R,2,196,78
+l0bv,Jiri Lehecka,23,1795,R,2,185,81
+ke29,Karen Khachanov,28,1760,R,2,198,87
+hb71,Hubert Hurkacz,28,1755,R,2,196,81
+su55,Denis Shapovalov,25,1726,L,1,185,75
+dh50,Alejandro Davidovich Fokina,25,1680,R,2,180,80
+te30,Alejandro Tabilo,27,1625,L,2,188,75
+n0ae,Brandon Nakashima,23,1620,R,2,188,83
+bk40,Matteo Berrettini,29,1620,R,2,196,95
+m0gz,Giovanni Mpetshi Perricard,21,1579,R,1,203,98
+b0bi,Sebastian Baez,24,1540,R,2,170,70
+c0e9,Flavio Cobolli,22,1520,R,2,183,74
+gj37,Tallon Griekspoor,28,1485,R,2,188,85
+m0qi,Alex Michelsen,20,1445,R,2,193,79
+tc61,Jordan Thompson,30,1415,R,2,183,82
+mp20,Alexandre Muller,28,1378,R,2,183,75
+bt72,Nuno Borges,28,1355,R,2,185,78
+a0fc,Matteo Arnaldi,24,1340,R,2,185,71
+mc65,Gael Monfils,38,1255,R,2,193,85
+su87,Lorenzo Sonego,29,1245,R,2,191,76
+gc88,Marcos Giron,31,1240,R,2,180,77
+ea24,Tomas Martin Etcheverry,25,1185,R,2,196,82
+d0fj,Luciano Darderi,23,1154,R,2,183,82
+ki95,Miomir Kecmanovic,25,1141,R,2,183,75
+mo44,Pedro Martinez,27,1130,R,2,185,76
+bu13,Zizou Bergs,25,1071,R,2,185,88
+sl28,Jan-Lennard Struff,34,1030,R,2,193,92
+gb88,David Goffin,34,1021,R,2,180,70
+bd06,Roberto Bautista Agut,36,1019,R,2,183,75
+hb64,Quentin Halys,28,1005,R,2,191,85
+cf59,Roberto Carballes Baena,32,1001,R,2,183,77
+z371,Zhizhen Zhang,28,995,R,2,193,87
+mu94,Jaume Munar,27,977,R,2,183,76
+j551,Nicolas Jarry,29,965,R,2,201,90
+f0fv,Joao Fonseca,18,947,R,2,188,81
+u182,Camilo Ugo Carabelli,25,947,R,2,185,83
+s0re,Juncheng Shang,20,938,L,2,180,73
+c0df,Francisco Comesana,24,933,R,2,178,72
+bm95,Benjamin Bonzi,28,908,R,2,183,82
+y09v,Yunchaokete Bu,23,905,R,2,185,82
+d923,Damir Dzumhur,32,899,R,2,175,68
+n552,Kei Nishikori,35,898,R,2,178,73
+b0gg,Mattia Bellucci,23,893,L,2,175,77
+ae14,Daniel Altmaier,26,867,R,1,188,80
+t0ha,Learner Tien,19,865,L,2,180,73
+n0bs,Mariano Navone,24,865,R,2,178,73
+n732,Yoshihito Nishioka,29,849,L,2,170,64
+m0jf,Hamad Medjedovic,21,843,R,2,188,86
+sx50,Roman Safiullin,27,831,R,2,185,75
+f0by,Jacob Fearnley,23,820,R,2,183,80
+rc91,Arthur Rinderknech,29,815,R,2,196,88
+mw02,Corentin Moutet,25,809,L,2,180,71
+m0ci,Fabian Marozsan,25,805,R,2,193,75
+bk92,Alexander Bublik,27,805,R,2,196,82
+k0az,Aleksandar Kovacevic,26,805,R,1,183,79
+db63,Laslo Djere,29,797,R,2,188,82
+d0f6,Gabriel Diallo,23,783,R,2,203,90
+g09o,Hugo Gaston,24,776,L,2,173,68
+c0jp,Raphael Collignon,23,761,R,2,191,86
+v832,Aleksandar Vukic,29,758,R,2,188,85
+h0bh,Rinky Hijikata,24,757,R,2,178,72
+w09e,Adam Walton,25,749,R,2,183,77
+o483,Christopher O'Connell,30,745,R,1,183,78
+n771,Cameron Norrie,29,742,L,2,188,82
+v812,Botic van de Zandschulp,29,705,R,2,191,85
+f724,Marton Fucsovics,33,705,R,2,188,82
+mq75,Kamil Majchrzak,29,670,R,2,183,80
+d994,James Duckworth,33,654,R,2,183,82
+mj08,Thiago Monteiro,30,628,L,2,183,78
+d0c1,Jesper de Jong,24,622,R,2,180,70
+ki82,Vit Kopriva,27,619,R,2,178,69
+f0f2,Jaime Faria,21,611,R,0,188,78
+l987,Dusan Lajovic,34,610,R,1,183,83
+p0ct,Francesco Passaro,24,609,R,2,180,83
+cd85,Pablo Carreno Busta,33,607,R,2,188,78
+mk66,Mackenzie McDonald,29,601,R,2,178,73
+da31,Hugo Dellien,31,601,R,2,180,75
+n0bg,Luca Nardi,21,597,R,2,185,80
+t0ap,Chun-Hsin Tseng,23,587,R,2,175,65
+s0h2,Alexander Shevchenko,24,585,R,2,188,80
+o522,Reilly Opelka,27,579,R,2,211,102
+hd68,Billy Harris,30,576,R,2,193,89
+kd46,Thanasi Kokkinakis,29,573,R,2,193,84
+b0nn,Nishesh Basavareddy,19,571,R,2,180,73
+cg80,Borna Coric,28,570,R,2,188,85
+e865,Christopher Eubanks,28,565,R,1,201,82
+c977,Marin Cilic,36,563,R,2,198,89
+sx91,Thiago Seyboth Wild,25,557,R,2,185,80
+pf39,Lucas Pouille,31,546,R,2,185,84
+f510,Fabio Fognini,37,544,R,2,178,79
+r0eb,Valentin Royer,23,536,R,2,188,86
+h09p,Brandon Holt,27,532,R,2,185,82
+ge33,Daniel Elahi Galan,28,521,R,2,191,72
+c0h0,Arthur Cazaux,22,508,R,2,183,73
+mw75,Felipe Meligeni Alves,27,506,R,2,185,85
+s0n0,Tristan Schoolkate,24,494,R,2,183,83
+k09f,Pavel Kotov,26,487,R,2,191,89
+b0ej,Tristan Boyer,23,485,R,2,188,84
+da81,Taro Daniel,32,478,R,2,191,84
+me82,Adrian Mannarino,36,476,L,2,180,79
+s0ja,Eliot Spizzirri,23,476,R,2,185,79
+q02l,Ethan Quinn,21,475,R,2,191,82
+c0c8,Juan Manuel Cerundolo,23,469,L,2,183,75
+s0gd,Dalibor Svrcina,22,466,R,2,178,68
+bs86,Tomas Barrios Vera,27,463,R,2,191,88
+v0am,Otto Virtanen,23,455,R,2,193,82
+h997,Yannick Hanfmann,33,453,R,2,193,86
+k0ep,Jerome Kym,22,449,R,2,198,87
+rc04,Alexander Ritschard,31,447,R,2,193,82
+t0a1,Thiago Agustin Tirante,24,441,R,2,185,81
+ce77,Federico Coria,33,437,R,2,180,73
+gj16,Federico Agustin Gomez,28,435,R,2,191,95
+hh06,Marc-Andrea Huesler,28,432,L,2,196,86
+ph71,Max Purcell,27,421,R,2,185,80
+b0fv,Roman Andres Burruchaga,23,420,R,2,183,80
+n0am,Emilio Nava,23,417,R,2,185,79
+kc12,Mitchell Krueger,31,416,R,2,188,82
+g628,Richard Gasquet,38,404,R,1,183,79
+o513,Sebastian Ofner,28,403,R,2,191,81
+g0fw,Vilius Gaubas,20,403,R,2,178,72
+te16,Carlos Taberner,27,401,R,2,183,78
+hg86,Lloyd Harris,28,400,R,2,193,80
+mw18,Nicolas Moreno De Alboran,27,398,R,2,185,82
+m0k4,Elmer Moller,21,398,R,2,183,73
+m0g4,Harold Mayot,23,389,R,2,180,80
+h996,Pierre-Hugues Herbert,34,389,R,2,188,75
+l0il,Martin Landaluce,19,388,R,2,193,80
+d0cg,Facundo Diaz Acosta,24,387,L,2,183,75
+m0hu,Shintaro Mochizuki,21,384,R,2,175,70
+b0pg,Alexander Blockx,20,384,R,2,193,83
+j0az,Kyrian Jacquet,23,382,R,2,175,71
+m0ht,Alejandro Moro Canas,24,382,R,2,183,78
+fa43,Juan Pablo Ficovich,28,381,R,2,188,80
+gd64,Cristian Garin,28,364,R,2,185,85
+d0dp,Liam Draxl,23,362,R,2,185,79
+bg23,Nikoloz Basilashvili,33,361,R,2,185,79
+pg20,Dmitry Popko,28,361,R,2,191,87
+w367,Stan Wawrinka,40,355,R,1,183,81
+bk24,Gregoire Barrere,31,354,R,2,183,80
+bv16,Ugo Blanchet,26,352,R,2,175,71
+ta29,Marco Trungelliti,35,352,R,2,178,80
+s0ze,Colton Smith,22,347,R,2,183,77
+k926,Mikhail Kukushkin,37,341,R,2,183,72
+b0cd,Jenson Brooksby,24,340,R,2,193,86
+hb48,Calvin Hemery,30,340,R,2,191,83
+a0cj,Duje Ajdukovic,24,339,R,2,188,78
+n897,Sumit Nagal,27,332,R,2,178,69
+tc01,Li Tu,28,331,R,1,183,80
+v0dz,Luca Van Assche,20,324,R,2,178,72
+kc04,Jozef Kovalik,32,322,R,2,183,82
+w0bh,Coleman Wong,20,322,R,2,191,80
+t0bw,James Trotter,25,322,R,0,183,75
+a0gc,Terence Atmane,23,317,L,2,193,80
+hf80,Hady Habib,26,316,R,2,188,88
+s0gr,Timofey Skatov,24,315,R,2,175,72
+ki63,Lukas Klein,27,313,R,0,193,85
+m0oq,James McCabe,21,309,R,2,188,82
+gf95,Hugo Grenier,29,308,R,2,196,85
+k0e6,Alibek Kachmazov,22,306,R,0,185,81
+gk06,Alexis Galarneau,26,306,R,2,180,79
+df88,Aziz Dougaz,28,305,L,2,188,82
+sy67,Sho Shimabukuro,27,304,R,2,180,78
+ch12,Jan Choinski,28,302,R,2,196,88
+h0du,Gustavo Heide,23,300,R,2,191,83
+lb66,Constant Lestienne,32,299,R,2,180,71
+m0jz,Filip Misolic,23,294,R,2,180,75
+kc56,Aslan Karatsev,31,292,R,2,185,85
+mj98,Facundo Mena,32,292,R,2,183,78
+cc66,Andrea Collarini,33,292,L,2,183,78
+s0aq,Yuta Shimizu,25,291,L,2,163,62
+n0cs,Lukas Neumayer,22,291,R,2,183,70
+h09n,August Holmgren,26,290,R,1,188,84
+ke73,Dominik Koepfer,30,288,L,2,180,79
+l0gh,Mark Lajal,21,287,R,2,191,80
+b0er,Arthur Bouquier,24,287,R,2,188,86
+g0gd,Matteo Gigante,23,284,L,2,180,68
+s0k7,Zachary Svajda,22,284,R,2,175,70
+e687,Daniel Evans,34,283,R,1,175,75
+r0go,Henrique Rocha,21,283,R,2,180,83
+a0ba,Federico Arnaboldi,24,277,R,2,185,78
+bo10,Gijs Brouwer,29,276,L,2,191,73
+m0ea,Pol Martin Tiffon,25,276,R,2,183,73
+z09z,Beibit Zhukayev,24,275,R,2,198,93
+d0dw,Titouan Droguet,23,272,R,2,191,80
+b0mm,Edas Butvilas,20,272,R,2,191,78
+r09x,Jurij Rodionov,25,271,L,2,191,83
+g0dh,Alvaro Guillen Meza,22,271,R,2,175,73
+b0id,Ignacio Buse,21,266,R,2,183,78
+wb08,Yosuke Watanuki,27,264,R,2,180,73
+va25,Valentin Vacherot,26,264,R,2,193,83
+mn13,Maximilian Marterer,29,263,L,2,188,78
+j553,Omar Jasika,27,260,L,2,183,60
+e768,Antoine Escoffier,33,260,R,2,185,78
+c0ht,Murphy Cassone,22,259,R,2,188,79
+hg94,Benjamin Hassan,30,258,R,2,183,85
+s0ak,Henri Squire,24,256,R,2,196,82
+dc48,Murkel Dellien,27,254,R,2,193,84
+p0j1,Rodrigo Pacheco Mendez,19,254,L,2,191,78
+sr81,Khumoyun Sultanov,26,251,R,2,180,80
+u134,Yasutaka Uchiyama,32,250,R,2,183,78
+j09x,Filip Cristian Jianu,23,250,R,2,180,78
+r0fp,Daniel Rincon,22,249,L,2,185,85
+rh24,Emil Ruusuvuori,26,248,R,2,188,79
+bi81,Alex Bolt,32,247,L,2,183,71
+o0a2,Gauthier Onclin,24,247,R,2,180,77
+v0dp,Adolfo Daniel Vallejo,20,247,R,2,183,75
+ph64,Andrea Pellegrino,28,243,R,2,185,81
+ta46,Bernard Tomic,32,243,R,2,196,91
+a829,Radu Albot,35,242,R,2,175,69
+r772,Albert Ramos-Vinolas,37,242,L,2,188,76
+p0ay,Luka Pavlovic,25,241,R,2,196,88
+j0a4,Paul Jubb,25,239,R,2,180,72
+h09f,Yu Hsiou Hsu,26,235,R,2,178,75
+k0hc,Maks Kasnikowski,21,232,R,2,180,78
+r0e0,Chris Rodesch,23,231,R,2,198,93
+v836,Juan Pablo Varillas,29,231,R,2,185,77
+r0ed,Max Hans Rehberg,21,229,R,2,183,80
+be69,Yan Bai,35,228,R,2,185,80
+s0ek,Matias Soto,25,228,R,2,170,75
+dc76,Viktor Durasovic,28,224,R,2,185,80
+g09c,Marek Gengel,29,224,R,2,185,80
+d0hd,Gabriel Debru,19,223,R,2,193,78
+g0gw,Sascha Gueymard Wayenburg,21,223,R,2,191,81
+y218,Elias Ymer,29,222,R,2,185,78
+w857,Tung-Lin Wu,26,222,R,2,188,81
+b0gr,Gonzalo Bueno,21,222,R,2,173,73
+d0h9,Guy Den Ouden,23,221,R,2,183,76
+n09u,Rio Noguchi,26,220,R,2,168,63
+sn54,Frederico Ferreira Silva,30,220,L,2,178,74
+rb60,Oriol Roca Batalla,31,219,R,1,175,75
+ci14,Jay Clarke,26,219,R,2,183,83
+ss25,Vitaliy Sachko,27,218,R,2,188,73
+y171,Denis Yevseyev,31,218,R,2,188,80
+s0la,Dominic Stricker,22,215,L,2,183,80
+m0on,Johannus Monday,23,212,L,2,198,86
+s0mn,Marat Sharipov,22,212,R,2,188,77
+h0cx,Max Houkes,24,209,L,2,188,78
+ag08,Andres Andrade,26,209,R,2,180,73
+s0cg,Carlos Sanchez Jover,24,209,L,2,173,65
+mw76,Matteo Martineau,26,206,R,1,183,78
+rh59,Santiago Rodriguez Taverna,25,202,R,2,191,82
+s0nv,Abdullah Shelbayh,21,201,L,2,180,73
+p0gq,Mili Poljicak,20,199,R,2,185,92
+b0jj,Robin Bertrand,22,199,R,0,178,70
+t0dm,Juan Bautista Torres,23,197,R,2,178,73
+p09o,Zsombor Piros,25,195,R,2,180,68
+bv25,Javier Barranco Cosano,26,195,L,2,180,73
+df92,Corentin Denolly,27,195,L,2,188,79
+kc33,Dimitar Kuzmanov,31,194,R,2,183,77
+o482,Gonzalo Oliveira,30,193,L,2,185,79
+dg80,Enrico Dalla Valle,27,193,R,2,196,90
+z09f,Patrick Zahraj,25,192,R,0,191,88
+a0ab,Adrian Andreev,23,192,R,2,175,73
+sm88,Karue Sell,31,191,R,2,183,81
+c0ak,Oliver Crawford,25,190,R,2,180,82
+cg04,Pedro Cachin,30,189,R,2,185,77
+e0ac,Mathys Erhard,23,189,R,2,188,83
+s0uv,Rei Sakamoto,18,187,R,2,193,80
+w09g,J.J. Wolf,26,186,R,2,183,81
+so20,Jelle Sels,29,186,R,1,188,83
+bu54,Geoffrey Blancaneaux,26,186,R,2,180,75
+cg33,Kimmer Coppejans,31,185,R,2,178,71
+sx90,Fajing Sun,28,184,R,2,178,75
+ea27,Blake Ellis,26,183,R,2,191,85
+p0iy,Juan Carlos Prado Angelo,20,181,R,2,185,72
+gg65,Michael Geerts,30,181,R,2,178,73
+c0bh,Clement Chidekh,23,180,R,2,180,78
+bu70,Remy Bertola,26,180,R,1,175,75
+va08,Andrea Vavassori,29,179,R,1,193,82
+ge28,Ivan Gakhov,28,179,L,2,191,83
+s0o6,Ilia Simakin,21,177,R,2,193,85
+m0if,Francesco Maestrelli,22,177,R,2,196,78
+be90,Ricardas Berankis,34,175,R,2,175,78
+m0nb,Aidan Mayo,21,175,R,0,183,75
+k966,Martin Klizan,35,174,L,2,191,85
+c0aj,Jie Cui,27,174,R,2,183,72

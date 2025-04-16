@@ -1,0 +1,1001 @@
+rank,pId,name,country,points,age,height,plays
+1,50810,Jannik Sinner,ITA,11830,23.0,191.0,r
+2,644,Alexander Zverev,GER,7915,27.0,198.0,r
+3,52602,Carlos Alcaraz Garfia,ESP,7010,21.0,183.0,r
+4,26006,Taylor Harry Fritz,USA,5100,27.0,196.0,r
+5,6407,Daniil Medvedev,RUS,5030,29.0,198.0,r
+6,34553,Casper Ruud,NOR,4255,26.0,183.0,r
+7,4920,Novak Djokovic,SRB,3910,37.0,188.0,r
+8,25897,Andrey Rublev,RUS,3760,27.0,188.0,r
+9,45105,Alex De Minaur,AUS,3745,26.0,183.0,r
+10,5763,Grigor Dimitrov,BUL,3350,33.0,191.0,r
+11,26577,Stefanos Tsitsipas,GRE,3165,26.0,193.0,r
+12,26008,Tommy Paul,USA,3145,27.0,185.0,r
+13,52642,Holger Vitus Nodskov Rune,DEN,3025,21.0,188.0,r
+14,44829,Ugo Humbert,FRA,2765,26.0,188.0,l
+15,52347,Jack Draper,GBR,2685,23.0,193.0,l
+16,27834,Hubert Hurkacz,POL,2640,28.0,196.0,r
+17,52132,Lorenzo Musetti,ITA,2600,23.0,185.0,r
+18,26010,Frances Tiafoe,USA,2585,27.0,188.0,r
+19,11547,Karen Khachanov,RUS,2410,28.0,198.0,r
+20,54517,Arthur Fils,FRA,2355,20.0,185.0,r
+21,54586,Ben Shelton,USA,2330,22.0,193.0,l
+22,45446,Sebastian Korda,USA,1985,24.0,196.0,r
+23,26017,Alejandro Tabilo,CHI,1943,27.0,188.0,l
+24,45437,Alexei Popyrin,AUS,1865,25.0,196.0,r
+25,52444,Tomas Machac,CZE,1758,24.0,183.0,r
+26,11415,Jordan Thompson,AUS,1745,30.0,183.0,r
+27,46888,Sebastian Baez,ARG,1690,24.0,170.0,r
+28,52716,Jiri Lehecka,CZE,1660,23.0,185.0,r
+29,44824,Felix Auger Aliassime,CAN,1635,24.0,193.0,r
+30,46887,Francisco Cerundolo,ARG,1620,26.0,185.0,r
+31,53270,Giovanni Mpetshi Perricard,FRA,1561,21.0,203.0,r
+32,52539,Flavio Cobolli,ITA,1472,22.0,183.0,r
+33,22171,Alexander Bublik,KAZ,1420,27.0,196.0,r
+34,26413,Matteo Berrettini,ITA,1380,29.0,196.0,r
+35,11769,Nicolas Jarry,CHI,1370,29.0,201.0,r
+36,32470,Nuno Borges,POR,1355,28.0,185.0,r
+37,52898,Harry Thursfield,ITA,1345,24.0,185.0,r
+38,51544,Brandon Nakashima,USA,1335,23.0,188.0,r
+39,44642,Tomas Martin Etcheverry,ARG,1315,25.0,196.0,r
+40,34651,Tallon Griekspoor,NED,1280,28.0,188.0,r
+41,54636,Alex Michelsen,USA,1245,20.0,193.0,r
+42,5515,Jan Lennard Struff,GER,1240,34.0,193.0,r
+43,23912,Pedro Martinez Portero,ESP,1205,27.0,185.0,r
+44,53856,Luciano Darderi,ITA,1198,,183.0,r
+45,11164,Zhizhen Zhang,CHN,1155,28.0,193.0,r
+46,6204,Marcos Giron,USA,1150,31.0,180.0,r
+47,52974,Mariano Navone,ARG,1148,24.0,178.0,r
+48,54637,Jakub Mensik,CZE,1136,19.0,193.0,r
+49,11787,Cameron Norrie,GBR,1119,29.0,188.0,l
+50,54582,Juncheng Shang,CHN,1115,20.0,180.0,l
+51,5131,Roberto Bautista Agut,ESP,1104,37.0,183.0,r
+52,5663,David Goffin,BEL,1037,34.0,180.0,r
+53,32067,Lorenzo Sonego,ITA,1026,29.0,191.0,r
+54,44999,Miomir Kecmanovic,SRB,1021,25.0,183.0,r
+55,4789,Gael Monfils,FRA,1005,38.0,193.0,r
+56,33214,Denis Shapovalov,CAN,981,25.0,185.0,l
+57,6134,Roberto Carballes Baena,ESP,981,32.0,183.0,r
+58,51318,Fabian Marozsan,HUN,935,25.0,193.0,r
+59,26042,Arthur Rinderknech,FRA,927,29.0,196.0,r
+60,25931,Roman Safiullin,RUS,923,27.0,185.0,r
+61,45045,Alejandro Davidovich Fokina,ESP,845,25.0,183.0,r
+62,44493,Jaume Munar,ESP,832,27.0,183.0,r
+63,53678,Arthur Cazaux,FRA,807,22.0,183.0,r
+64,6317,Christopher Oconnell,AUS,795,30.0,183.0,r
+65,51966,Bu Yunchaokete,CHN,784,23.0,185.0,r
+66,5166,Adrian Mannarino,FRA,779,36.0,180.0,l
+67,24019,Alexandre Muller,FRA,778,28.0,183.0,r
+68,26648,Aleksandar Vukic,AUS,778,29.0,188.0,r
+69,6401,Yoshihito Nishioka,JPN,776,29.0,170.0,l
+70,44668,Corentin Moutet,FRA,772,25.0,180.0,l
+71,45090,Zizou Bergs,BEL,768,25.0,185.0,r
+72,11433,Quentin Halys,FRA,756,28.0,191.0,r
+73,52627,Rinky Hijikata,AUS,746,24.0,178.0,r
+74,50371,Thiago Seyboth Wild,BRA,732,25.0,185.0,r
+75,25930,Benjamin Bonzi,FRA,730,28.0,183.0,r
+76,45206,Hugo Gaston,FRA,717,24.0,173.0,l
+77,6409,Thanasi Kokkinakis,AUS,716,29.0,193.0,r
+78,52300,Alexander Shevchenko,KAZ,715,24.0,185.0,r
+79,52294,Facundo Diaz Acosta,ARG,714,24.0,183.0,l
+80,22139,Botic Van De Zandschulp,NED,712,29.0,191.0,r
+81,5571,Dusan Lajovic,SRB,710,34.0,183.0,r
+82,5888,James Duckworth,AUS,687,33.0,183.0,r
+83,5986,Damir Dzumhur,BIH,679,32.0,175.0,r
+84,6107,Taro Daniel,JPN,674,32.0,191.0,r
+85,52295,Francisco Comesana,ARG,661,24.0,178.0,r
+86,45126,Pavel Kotov,RUS,655,26.0,191.0,r
+87,53719,Gabriel Diallo,CAN,643,23.0,203.0,r
+88,23949,Sebastian Ofner,AUT,643,28.0,191.0,r
+89,26959,Daniel Altmaier,GER,640,26.0,188.0,r
+90,6418,Borna Coric,CRO,639,28.0,188.0,r
+91,4921,Fabio Fognini,ITA,637,37.0,178.0,r
+92,52747,Luca Nardi,ITA,637,21.0,185.0,r
+93,45265,Adam Walton,AUS,636,25.0,183.0,r
+94,47044,Otto Virtanen,FIN,634,23.0,193.0,r
+95,45148,Emil Ruusuvuori,FIN,628,26.0,188.0,r
+96,5856,Yannick Hanfmann,GER,627,33.0,193.0,r
+97,44940,Camilo Ugo Carabelli,ARG,624,25.0,185.0,r
+98,11548,Sumit Nagal,IND,622,27.0,178.0,r
+99,52598,Jacob Fearnley,GBR,622,23.0,183.0,r
+100,5934,Federico Coria,ARG,617,33.0,180.0,r
+101,6284,Lucas Pouille,FRA,616,31.0,185.0,r
+102,36221,Dominik Koepfer,GER,610,30.0,180.0,l
+103,52846,Mattia Bellucci,ITA,605,23.0,175.0,l
+104,5902,Marton Fucsovics,HUN,597,33.0,188.0,r
+105,26647,Max Purcell,AUS,591,27.0,185.0,r
+106,5442,Kei Nishikori,JPN,578,35.0,178.0,r
+107,11127,Christopher Eubanks,USA,572,28.0,201.0,r
+108,53470,Francesco Passaro,ITA,570,24.0,180.0,r
+109,6315,Thiago Monteiro,BRA,566,30.0,183.0,l
+110,34240,Nicolas Moreno De Alboran,USA,556,27.0,185.0,r
+111,51136,Aleksandar Kovacevic,USA,554,26.0,183.0,r
+112,52025,Jesper De Jong,NED,548,24.0,180.0,r
+113,5055,Mikhail Kukushkin,KAZ,542,37.0,183.0,r
+114,53705,Hamad Medjedovic,SRB,536,,188.0,r
+115,11485,Laslo Djere,SRB,519,29.0,188.0,r
+116,52617,Harold Mayot,FRA,518,23.0,180.0,r
+117,46842,Thiago Agustin Tirante,ARG,515,24.0,185.0,r
+118,6296,Alexander Ritschard,SUI,513,31.0,193.0,r
+119,47141,Chun Hsin Tseng,TPE,509,23.0,175.0,r
+120,11766,Kamil Majchrzak,POL,506,29.0,180.0,r
+121,54487,Raphael Collignon,BEL,500,,191.0,r
+122,54590,Learner Tien,USA,493,19.0,180.0,l
+123,54706,Jaime Faria,POR,489,21.0,188.0,r
+124,6184,Hugo Dellien,BOL,488,31.0,180.0,r
+125,25932,Billy Harris,GBR,474,30.0,193.0,r
+126,23588,Daniel Elahi Galan Riveros,COL,473,28.0,191.0,r
+127,6061,Jozef Kovalik,SVK,472,32.0,183.0,r
+128,54003,Luca Van Assche,FRA,471,,178.0,r
+129,4752,Richard Gasquet,FRA,470,38.0,183.0,r
+130,45063,Vit Kopriva,CZE,465,27.0,178.0,r
+131,11429,Mackenzie Mcdonald,USA,464,29.0,178.0,r
+132,44524,Lloyd George Muirhead Harris,RSA,457,28.0,193.0,r
+133,52343,Tristan Boyer,USA,452,23.0,,r
+134,53454,Jerome Kym,SUI,451,22.0,198.0,r
+135,54424,Leandro Riedi,SUI,449,23.0,191.0,r
+136,27560,Lukas Klein,SVK,443,27.0,193.0,r
+137,44643,Federico Agustin Gomez,ARG,442,28.0,191.0,r
+138,54721,Nishesh Basavareddy,USA,440,19.0,180.0,r
+139,52292,Juan Manuel Cerundolo,ARG,428,23.0,183.0,l
+140,45295,Valentin Vacherot,MON,426,26.0,193.0,r
+141,53857,Matteo Gigante,ITA,424,23.0,180.0,l
+142,51827,Duje Ajdukovic,CRO,422,24.0,188.0,r
+143,5466,Marco Trungelliti,ARG,417,35.0,178.0,r
+144,5476,Facundo Bagnis,ARG,414,35.0,183.0,l
+145,54599,Joao Fonseca,BRA,409,18.0,185.0,r
+146,6020,Yasutaka Uchiyama,JPN,398,32.0,183.0,r
+147,6269,Mitchell Krueger,USA,396,31.0,188.0,r
+148,5718,Pierre Hugues Herbert,FRA,391,34.0,188.0,r
+149,45158,Felipe Meligeni Rodrigues Alves,BRA,389,27.0,185.0,r
+150,11777,Seong Chan Hong,KOR,389,27.0,175.0,r
+151,54594,Martin Landaluce,ESP,383,19.0,191.0,r
+152,6412,Christian Garin,CHI,382,28.0,185.0,r
+153,4742,Rafael Nadal,ESP,380,38.0,185.0,l
+154,44416,Marcelo Tomas Barrios Vera,CHI,380,27.0,191.0,r
+155,26212,Hugo Grenier,FRA,379,29.0,196.0,r
+156,53493,Roman Andres Burruchaga,ARG,378,23.0,183.0,r
+157,6095,Alex Bolt,AUS,377,32.0,183.0,l
+158,53874,Terence Atmane,FRA,376,,193.0,l
+159,44591,Marc Andrea Huesler,SUI,376,28.0,196.0,l
+160,53879,Elmer Moller,DEN,372,,183.0,r
+161,4526,Stan Wawrinka,SUI,371,40.0,183.0,r
+162,6282,Gregoire Barrere,FRA,371,31.0,183.0,r
+163,5420,Radu Albot,MDA,369,35.0,175.0,r
+164,5543,Daniel Evans,GBR,364,34.0,175.0,r
+165,5070,Albert Ramos,ESP,359,37.0,188.0,l
+166,52873,Zachary Svajda,USA,352,22.0,175.0,r
+167,9286,Stefano Napolitano,ITA,349,30.0,196.0,r
+168,53858,Tristan Schoolkate,AUS,345,24.0,183.0,r
+169,52892,Alejandro Moro Canas,ESP,345,24.0,183.0,r
+170,53999,Coleman Wong,HKG,340,,191.0,r
+171,54635,Henrique Rocha,POR,334,21.0,180.0,r
+172,52972,Gustavo Heide,BRA,332,23.0,191.0,r
+173,23661,Jan Choinski,GBR,330,28.0,196.0,r
+174,11427,Li Tu,AUS,329,28.0,183.0,r
+175,45336,Jurij Rodionov,AUT,327,25.0,191.0,l
+176,33618,Gijs Brouwer,NED,326,29.0,191.0,l
+177,47043,Henri Squire,GER,325,24.0,196.0,r
+178,17200,Omar Jasika,AUS,323,27.0,183.0,l
+179,5220,Marin Cilic,CRO,323,36.0,198.0,r
+180,54441,Maks Kasnikowski,POL,318,21.0,180.0,r
+181,21919,Dmitry Popko,KAZ,318,28.0,191.0,r
+182,52782,Titouan Droguet,FRA,315,23.0,191.0,r
+183,23794,Murkel Alejandro Dellien Velasco,BOL,314,27.0,193.0,r
+184,9719,Maximilian Marterer,GER,313,29.0,188.0,l
+185,51340,Paul Jubb,GBR,311,25.0,180.0,r
+186,53751,Vilius Gaubas,LTU,311,20.0,178.0,r
+187,26466,Juan Pablo Ficovich,ARG,308,28.0,191.0,r
+188,5991,Constant Lestienne,FRA,307,32.0,180.0,r
+189,51525,Clement Chidekh,FRA,304,23.0,,
+190,45469,Sho Shimabukuro,JPN,303,27.0,180.0,r
+191,52222,Timofey Skatov,KAZ,299,24.0,175.0,r
+192,46906,Yuta Shimizu,JPN,299,25.0,163.0,l
+193,53000,James Trotter,JPN,298,,,
+194,52843,Alibek Kachmazov,RUS,296,22.0,185.0,r
+195,26338,Carlos Taberner,ESP,296,27.0,183.0,r
+196,5793,Pablo Carreno Busta,ESP,292,33.0,188.0,r
+197,52928,Valentin Royer,FRA,292,23.0,,
+198,45409,Brandon Holt,USA,286,27.0,185.0,r
+199,45394,Nick Hardt,DOM,286,24.0,185.0,r
+200,45238,August Holmgren,DEN,286,26.0,188.0,r
+201,23754,Calvin Hemery,FRA,283,30.0,193.0,r
+202,54593,Ethan Quinn,USA,280,21.0,191.0,r
+203,54640,Alexander Blockx,BEL,280,20.0,191.0,r
+204,5897,Andrea Collarini,ARG,280,33.0,183.0,l
+205,44832,Alexis Galarneau,CAN,278,26.0,180.0,r
+206,11477,Enzo Couacaud,FRA,277,30.0,183.0,r
+207,5924,Antoine Escoffier,FRA,277,33.0,185.0,r
+208,5918,Nikoloz Basilashvili,GEO,273,33.0,185.0,r
+209,22510,Juan Pablo Varillas Patino Samudio,PER,272,29.0,185.0,r
+210,45012,Matteo Martineau,FRA,270,26.0,183.0,r
+211,45338,Patrick Kypson,USA,269,25.0,188.0,r
+212,51796,Emilio Nava,USA,269,23.0,185.0,r
+213,6057,Bernard Tomic,AUS,269,32.0,193.0,r
+214,47045,Filip Cristian Jianu,ROU,265,23.0,180.0,r
+215,6043,Facundo Mena,ARG,262,32.0,183.0,r
+216,45096,Hady Habib,LIB,261,26.0,188.0,r
+217,46874,Adrian Andreev,BUL,261,23.0,180.0,r
+218,33758,Benjamin Hassan,LBN,260,30.0,183.0,r
+219,45533,Nicolas Mejia,COL,260,25.0,183.0,r
+220,6163,Oriol Roca Batalla,ESP,259,31.0,,r
+221,5868,Stefano Travaglia,ITA,259,33.0,185.0,r
+222,45082,Ugo Blanchet,FRA,258,26.0,175.0,r
+223,26741,Khumoun Sultanov,UZB,256,26.0,180.0,r
+224,45089,Javier Barranco Cosano,ESP,255,26.0,180.0,l
+225,52108,Dalibor Svrcina,CZE,255,22.0,178.0,r
+226,54470,Lukas Neumayer,AUT,254,,183.0,r
+227,44600,Aziz Dougaz,TUN,254,28.0,188.0,l
+228,52731,Eliot Spizzirri,USA,253,23.0,183.0,r
+229,54639,Mark Lajal,EST,251,21.0,191.0,r
+230,25952,Gianluca Mager,ITA,251,30.0,188.0,r
+231,51104,Federico Arnaboldi,ITA,251,24.0,,
+232,51540,Gauthier Onclin,BEL,251,24.0,,
+233,53823,Adolfo Daniel Vallejo,PAR,249,,,
+234,54427,Ignacio Buse,PER,243,21.0,185.0,r
+235,52891,Shintaro Mochizuki,JPN,241,21.0,175.0,r
+236,26358,Tung Lin Wu,TPE,241,26.0,188.0,r
+237,51385,Giulio Zeppieri,ITA,240,23.0,183.0,l
+238,5670,Milos Raonic,CAN,240,34.0,196.0,r
+239,45141,Yu Hsiou Hsu,TPE,240,26.0,178.0,r
+240,52905,Gonzalo Bueno,PER,240,21.0,173.0,r
+241,45570,Andres Andrade,ECU,239,26.0,180.0,r
+242,52964,Francesco Maestrelli,ITA,237,22.0,,
+243,47103,Beibit Zhukayev,KAZ,236,24.0,198.0,r
+244,46979,Maxime Cressy,USA,235,27.0,201.0,r
+245,23652,Goncalo Oliveira,POR,235,30.0,185.0,l
+246,6173,Denis Yevseyev,KAZ,233,31.0,188.0,r
+247,52732,Liam Draxl,CAN,231,23.0,,r
+248,51746,Matias Soto,CHI,231,25.0,,
+249,45258,Zsombor Piros,HUN,230,25.0,180.0,r
+250,53996,Abedallah Shelbayh,JOR,225,,180.0,l
+251,52160,Pol Martin Tiffon,ESP,221,25.0,,
+252,54766,Edas Butvilas,LTU,219,20.0,191.0,r
+253,54682,Gabriel Debru,FRA,218,19.0,,r
+254,9038,Daniel Masur,GER,217,30.0,183.0,r
+255,5331,Yan Bai,CHN,216,35.0,,r
+256,54674,James Mccabe,AUS,216,21.0,188.0,r
+257,45132,Marek Gengel,CZE,215,29.0,,r
+258,31689,Manuel Guinard,FRA,211,29.0,198.0,r
+259,6250,Karue Sell,BRA,210,31.0,,r
+260,26307,Andrea Pellegrino,ITA,209,28.0,185.0,r
+261,45492,Jeffrey John Wolf,USA,208,26.0,183.0,r
+262,5827,Lorenzo Giustino,ITA,208,33.0,,r
+263,54418,Robin Bertrand,FRA,207,,,
+264,26455,Jay Clarke,GBR,206,26.0,188.0,r
+265,52634,Kyrian Jacquet,FRA,204,23.0,178.0,r
+266,54739,Matej Dodig,CRO,204,19.0,188.0,r
+267,6031,Denis Kudla,USA,202,32.0,180.0,r
+268,45306,Rudolf Molleker,GER,200,24.0,188.0,r
+269,52836,Alvaro Guillen Meza,ECU,199,22.0,175.0,r
+270,53430,Max Hans Rehberg,GER,196,21.0,183.0,r
+271,53465,Aidan Mayo,USA,195,21.0,,
+272,26326,Bernabe Zapata Miralles,ESP,194,28.0,183.0,r
+273,53995,Daniel Rincon,ESP,194,22.0,185.0,l
+274,31718,Andrea Vavassori,ITA,192,29.0,193.0,r
+275,53977,Samuel Vincent Ruggeri,ITA,192,,,
+276,45100,Charles Broom,GBR,191,26.0,178.0,r
+277,11778,Fajing Sun,CHN,190,28.0,178.0,r
+278,44746,Santiago Fa Rodriguez Taverna,ARG,190,25.0,191.0,r
+279,44745,Geoffrey Blancaneaux,FRA,189,26.0,180.0,r
+280,53524,Juan Bautista Torres,ARG,189,,,
+281,26925,Mateus Alves,BRA,187,,191.0,r
+282,45152,Remy Bertola,SUI,184,26.0,175.0,r
+283,33655,Enrico Dalla Valle,ITA,184,27.0,,
+284,52623,Pablo Llamas Ruiz,ESP,183,22.0,188.0,r
+285,44758,Ergi Kirkin,TUR,183,26.0,180.0,r
+286,6384,Pedro Cachin,ARG,181,30.0,185.0,r
+287,6220,Aslan Karatsev,RUS,179,31.0,185.0,r
+288,54794,Juan Carlos Prado Angelo,BOL,179,20.0,185.0,r
+289,5658,Gastao Elias,POR,179,34.0,183.0,r
+290,51845,Mathys Erhard,FRA,179,23.0,,
+291,5364,Martin Klizan,SVK,177,35.0,191.0,l
+292,54588,Dino Prizmic,CRO,176,19.0,188.0,r
+293,24020,Reilly Opelka,USA,176,27.0,211.0,r
+294,54638,Philip Sekulic,AUS,176,21.0,,r
+295,54457,Mili Poljicak,CRO,175,,185.0,r
+296,45499,Rio Noguchi,JPN,174,26.0,,
+297,54743,Daniel Merida Aguilar,ESP,174,20.0,,r
+298,25910,Michael Geerts,BEL,174,30.0,178.0,r
+299,53113,Dominic Stephan Stricker,SUI,173,22.0,183.0,l
+300,52823,Chris Rodesch,LUX,173,23.0,198.0,r
+301,52413,Matheus Pucinelli De Almeida,BRA,173,24.0,183.0,r
+302,25653,Jelle Sels,NED,172,29.0,,
+303,5173,Daniel Dutra Da Silva,BRA,171,36.0,175.0,l
+304,44430,Corentin Denolly,FRA,170,27.0,185.0,l
+305,25928,Maxime Janvier,FRA,168,28.0,196.0,r
+306,46983,Carlos Sanchez Jover,ESP,168,24.0,,r
+307,51107,Cezar Cretu,ROU,167,23.0,188.0,r
+308,6379,Frederico Ferreira Silva,POR,166,30.0,178.0,l
+309,23642,Ivan Gakhov,RUS,165,28.0,191.0,l
+310,53788,Oleksandr Ovcharenko,UKR,163,,185.0,r
+311,11733,Benjamin Lock,ZIM,163,32.0,198.0,r
+312,52682,Max Houkes,NED,161,24.0,,
+313,44490,Oleg Prihodko,UKR,161,27.0,,r
+314,5564,Ricardas Berankis,LTU,160,34.0,175.0,r
+315,44595,Genaro Alberto Olivieri,ARG,159,26.0,175.0,r
+316,53806,Filip Misolic,AUT,158,23.0,180.0,r
+317,11553,Michael Mmoh,USA,158,27.0,188.0,r
+318,54466,Ilia Simakin,RUS,158,,,
+319,47019,Jacopo Berrettini,ITA,156,26.0,191.0,
+320,6058,Alexey Vatutin,RUS,156,32.0,178.0,r
+321,17203,Marc Polmans,AUS,155,27.0,188.0,r
+322,5938,Renzo Olivo,ARG,155,33.0,180.0,r
+323,52274,Nicholas David Ionel,ROU,155,22.0,183.0,r
+324,47256,Philip Henning,RSA,154,24.0,,r
+325,52223,Alexey Zakharov,RUS,154,24.0,,r
+326,2093,Martin Damm,USA,153,52.0,203.0,l
+327,11174,Elias Ymer,SWE,153,29.0,185.0,r
+328,6153,Joris De Loore,BEL,153,31.0,191.0,r
+329,53129,Hazem Naw,???,153,25.0,,r
+330,54699,Joel Schwaerzler,AUT,152,19.0,188.0,l
+331,6064,Egor Gerasimov,BLR,151,32.0,196.0,r
+332,52318,Alex Marti Pujolras,ESP,151,26.0,,
+333,45040,Giovanni Fonio,ITA,150,26.0,183.0,r
+334,6189,Pedro Sakamoto,BRA,150,31.0,180.0,r
+335,53921,Murphy Cassone,USA,149,,,r
+336,6206,Dimitar Kuzmanov,BUL,149,31.0,183.0,r
+337,53737,Eliakim Coulibaly,CIV,149,22.0,,l
+338,34112,Blake Ellis,AUS,149,26.0,,r
+339,5822,Jules Marie,FRA,149,33.0,,r
+340,53542,Toby Alex Kodat,USA,149,22.0,,r
+341,6196,Jiri Vesely,CZE,148,31.0,198.0,l
+342,29710,Marat Sharipov,KAZ,148,38.0,,
+343,54478,Guy Den Ouden,NED,148,23.0,,
+344,52717,Andrea Picchione,ITA,148,26.0,,
+345,52626,Dane Sweeny,AUS,147,24.0,170.0,r
+346,54760,Jakub Nicod,CZE,147,20.0,,r
+347,52105,Sandro Kopp,AUT,146,24.0,,
+348,26754,Soon Woo Kwon,KOR,145,27.0,180.0,r
+349,22193,Christoph Negritu,GER,145,31.0,,r
+350,52277,Nikolas Sanchez Izquierdo,ESP,145,26.0,185.0,r
+351,10580,Dennis Novak,AUT,144,31.0,183.0,r
+352,46773,Masamichi Imamura,JPN,143,26.0,,
+353,44919,Nicola Kuhn,ESP,142,25.0,185.0,r
+354,11550,Stefan Kozlov,USA,141,27.0,183.0,r
+355,6158,Maxime Chazal,FRA,140,31.0,,r
+356,45196,Nicolas Alvarez Varona,ESP,140,23.0,188.0,r
+357,6364,Kyle Edmund,GBR,139,30.0,188.0,r
+358,25988,Evgeny Tyurnev,RUS,139,28.0,,r
+359,44522,Kris Van Wyk,RSA,139,28.0,185.0,r
+360,45488,Jie Cui,CHN,138,27.0,183.0,r
+361,11161,Kaichi Uchida,JPN,137,30.0,180.0,r
+362,46930,Luka Pavlovic,FRA,136,25.0,,
+363,55191,Yi Zhou,CHN,135,20.0,193.0,r
+364,51226,Gabi Adrian Boitan,ROU,135,25.0,185.0,r
+365,54851,Colton Smith,USA,134,22.0,,
+366,52975,Franco Roncadelli,URU,134,25.0,185.0,l
+367,23987,Sasi Kumar Mukund,IND,134,28.0,185.0,r
+368,54589,Rodrigo Pacheco Mendez,MEX,133,19.0,188.0,l
+369,47181,Michael Vrbensky,CZE,132,25.0,183.0,r
+370,6029,Diego Sebastian Schwartzman,ARG,131,32.0,170.0,r
+371,53513,Johannus Monday,GBR,131,,,
+372,11760,Naoki Nakagawa,JPN,131,28.0,,r
+373,45169,Mats Rosenkranz,GER,131,26.0,193.0,l
+374,33081,Yosuke Watanuki,JPN,130,27.0,180.0,r
+375,6051,Marco Cecchinato,ITA,130,32.0,185.0,r
+376,54585,Jack Pinnington Jones,GBR,129,22.0,,r
+377,46911,Clement Tabur,FRA,129,25.0,,r
+378,46859,Adria Soriano Barrera,COL,129,25.0,191.0,r
+379,47137,Matthew Dellavedova,AUS,128,24.0,,
+380,54756,Luka Mikrut,CRO,127,20.0,188.0,r
+381,54697,Gerard Campana Lee,KOR,127,20.0,,r
+382,54724,Arthur Gea,FRA,127,20.0,,r
+383,23816,Nerman Fatic,BIH,124,30.0,191.0,r
+384,22395,David Jorda Sanchis,ESP,123,30.0,198.0,r
+385,54768,Mika Brunold,SUI,123,20.0,,r
+386,52875,Alejo Lorenzo Lingua Lavallen,ARG,122,24.0,,l
+387,26766,Vitaliy Sachko,UKR,122,27.0,188.0,r
+388,54741,Lautaro Midon,ARG,122,21.0,,r
+389,53032,Lilian Marmousez,FRA,121,23.0,,
+390,52378,Ryan Nijboer,NED,121,25.0,,
+391,6148,Franco Agamenone,ARG,121,31.0,188.0,r
+392,33851,Vadym Ursu,UKR,121,28.0,,r
+393,54483,Marko Topo,GER,120,21.0,185.0,r
+394,6218,Roberto Cid,DOM,120,31.0,193.0,r
+395,6354,Ramkumar Ramanathan,IND,119,30.0,188.0,r
+396,54816,Justin Engel,GER,119,17.0,,
+397,31836,Christian Langmo,USA,119,28.0,,
+398,5642,Hiroki Moriya,JPN,119,34.0,,r
+399,6279,Kimmer Coppejans,BEL,118,31.0,178.0,r
+400,54814,Andre Ilagan,USA,118,24.0,,l
+401,50944,Joao Lucas Reis Da Silva,BRA,117,25.0,,r
+402,52283,Robert Strombachs,LAT,117,25.0,191.0,r
+403,45432,Oliver Crawford,USA,116,,,r
+404,52411,Jonas Forejtek,CZE,116,24.0,,r
+405,52498,Arthur Bouquier,FRA,114,24.0,,
+406,52029,Daniel Michalski,POL,114,25.0,180.0,
+407,54722,Luciano Emanuel Ambrogi,ARG,114,21.0,,r
+408,44883,Yibing Wu,CHN,113,25.0,183.0,r
+409,54686,Michael Agwi,IRL,113,21.0,193.0,r
+410,44419,Zdenek Kolar,CZE,111,28.0,185.0,r
+411,11487,Thai Son Kwiatkowski,USA,110,30.0,,r
+412,52219,Jakub Paul,SUI,110,26.0,180.0,r
+413,55204,Rei Sakamoto,JPN,109,18.0,,r
+414,6278,Hernan Casanova,ARG,109,31.0,178.0,r
+415,5324,Benoit Paire,FRA,109,35.0,196.0,r
+416,53548,Kasidit Samrej,THA,109,24.0,191.0,r
+417,9674,Pedro Araujo,POR,109,50.0,,r
+418,26143,Viktor Durasovic,NOR,109,28.0,185.0,r
+419,47125,Ryan Seggerman,USA,108,25.0,,
+420,54518,Petr Bar Biryukov,RUS,108,,,
+421,52757,Giles Hussey,GBR,106,27.0,185.0,l
+422,55176,Milos Karol,SVK,106,22.0,,r
+423,6366,Gonzalo Villanueva,ARG,106,30.0,,r
+424,54758,Bor Artnak,SLO,105,20.0,193.0,r
+425,52346,Miguel Damas,ESP,105,25.0,,
+426,6334,Evgeny Karlovskiy,RUS,105,30.0,191.0,r
+427,5403,Andrej Martin,SVK,104,35.0,183.0,r
+428,25909,Ryan Peniston,GBR,103,29.0,180.0,l
+429,51504,Tommaso Compagnucci,ITA,102,25.0,,
+430,52098,Neil Oberleitner,AUT,102,25.0,,r
+431,5601,Norbert Gombos,SVK,101,34.0,193.0,r
+432,23680,Bogdan Bobrov,RUS,101,27.0,,
+433,45078,Alexander Weis,ITA,101,27.0,,
+434,53850,Valerio Aboian,ARG,101,,,
+435,51795,Govind Nanda,USA,100,24.0,,r
+436,52882,Felix Gill,GBR,100,22.0,,
+437,54806,Tom Gentzsch,GER,100,21.0,,r
+438,54762,Gabriele Pennaforti,ITA,100,24.0,,r
+439,53913,Petr Nesterov,BUL,99,,,r
+440,52429,Guido Ivan Justo,ARG,99,27.0,,
+441,6348,Laurent Lokoli,FRA,98,30.0,188.0,r
+442,23628,Altug Celikbilek,TUR,97,28.0,183.0,r
+443,54776,Gianluca Cadenasso ,ITA,97,20.0,,r
+444,52795,Saba Purtseladze,GEO,97,23.0,191.0,r
+445,23847,Ernesto Escobedo,MEX,96,28.0,185.0,r
+446,6123,Tristan Lamasine,FRA,96,32.0,183.0,r
+447,27140,Borna Gojo,CRO,95,27.0,196.0,r
+448,54729,Hynek Barton,CZE,94,21.0,,r
+449,53782,Alessandro Pecci,ITA,94,,,
+450,46932,Michiel De Krom,NED,94,26.0,,
+451,10729,Sebastian Fanselow,GER,94,33.0,,r
+452,34623,Raul Brancaccio,ITA,93,27.0,183.0,r
+453,26000,Orlando Luz,BRA,93,27.0,180.0,r
+454,31695,Lucas Poullain,FRA,93,29.0,,
+455,45535,Federico Iannaccone,ITA,93,26.0,,
+456,46934,Dan Alexandru Tomescu,ROU,93,26.0,,
+457,52637,Max Alcala Gurri,ESP,92,22.0,,
+458,52912,Omni Kumar,USA,91,23.0,173.0,l
+459,5621,Mohamed Safwat,EGY,91,34.0,180.0,r
+460,52374,Anton Matusevich,GBR,90,23.0,,r
+461,26012,Peter Bertran,DOM,90,29.0,,
+462,53929,Micah Braswell,USA,89,,,
+463,6274,Mathias Bourgue,FRA,89,31.0,188.0,r
+464,55165,Kokoro Isomura,JPN,89,22.0,,r
+465,22336,Shintaro Imai,JPN,88,31.0,,
+466,52104,Carlos Lopez Montagud,ESP,88,24.0,,
+467,45274,Patrick Zahraj,GER,88,25.0,,
+468,54417,Sascha Gueymard Wayenburg,FRA,88,,,
+469,52691,Tomas Farjat,ARG,87,24.0,,
+470,54761,Gabriele Piraino,ITA,87,21.0,,l
+471,54713,Svyatoslav Gulin,RUS,87,22.0,,r
+472,44458,Alex Molcan,SVK,86,27.0,178.0,l
+473,55167,Karan Singh,IND,86,21.0,,r
+474,32615,Giovanni Oradini,ITA,85,27.0,,
+475,6411,Blake Mott,AUS,85,28.0,,r
+476,53847,Stefan Popovic,SRB,85,,,
+477,9301,Pawel Cias,POL,84,31.0,,r
+478,47202,Aidan Mchugh,GBR,84,24.0,178.0,r
+479,45207,Dan Added,FRA,84,26.0,184.0,r
+480,47142,Marvin Moeller,GER,83,26.0,178.0,r
+481,45188,Olukayode Alafia Damina Ayeni,USA,83,25.0,,
+482,54732,Marcello Serafini,ITA,83,22.0,,r
+483,53855,Arthur Fery,GBR,82,,175.0,r
+484,9666,Riccardo Bonadio,ITA,82,31.0,180.0,r
+485,23826,Lucas Gerch,GER,82,30.0,,
+486,52668,Ajeet Rai,NZL,82,26.0,188.0,r
+487,35535,Patrick Maloney,USA,81,33.0,,
+488,51387,Daniil Glinka,EST,81,24.0,,
+489,53463,Stefanos Sakellaridis,GRE,81,20.0,196.0,r
+490,44854,Facundo Juarez,ARG,80,27.0,166.0,r
+491,53096,Kiranpal Pannu,NZL,80,28.0,185.0,r
+492,26565,Aleksandre Bakshi,GEO,80,27.0,180.0,l
+493,44446,Duarte Vale,POR,80,26.0,,
+494,25986,Mariano Kestelboim,ARG,79,29.0,,r
+495,47060,Damien Wenger,SUI,79,25.0,,
+496,46931,Florent Bax,FRA,79,25.0,,
+497,52955,Andrew Paulson,CZE,78,23.0,,
+498,52954,Tyler Zink,USA,78,24.0,,r
+499,52116,Stefan Palosi,ROU,78,25.0,,r
+500,54757,Yanaki Milev,BUL,78,20.0,180.0,r
+501,52659,Pedro Boscardin Dias,BRA,77,22.0,,
+502,21252,Moez Chargui,TUN,76,32.0,178.0,r
+503,31694,Lucas Bouquet,FRA,76,27.0,,r
+504,17202,Jake Delaney,AUS,76,27.0,,
+505,52583,Stefan Dostanic,USA,75,23.0,,r
+506,5801,Tennys Sandgren,USA,75,33.0,188.0,r
+507,5687,Jose Pereira,BRA,75,34.0,,r
+508,47200,Stijn Slump,NED,75,26.0,,r
+509,52940,Max Wiskandt,GER,75,23.0,,r
+510,51547,Stuart Parker,GBR,74,27.0,,r
+511,55194,Henry Searle,GBR,74,19.0,193.0,l
+512,52611,Takuya Kumasaka,JPN,74,26.0,,
+513,54498,Lukas Pokorny,SVK,74,,191.0,r
+514,52866,Niels Visker,NED,74,23.0,,
+515,54849,Tiago Pereira,POR,74,20.0,,r
+516,21954,Yurii Dzhavakian,UKR,74,31.0,,r
+517,52342,Moerani Bouzige,AUS,74,25.0,,r
+518,55257,Nicolai Budkov Kjaer,NOR,73,18.0,188.0,r
+519,45284,Andrea Guerrieri,ITA,73,26.0,,l
+520,44899,Yshai Oliel,ISR,73,25.0,188.0,l
+521,55210,Federico Bondioli,ITA,73,19.0,,l
+522,55093,Federico Cina,ITA,73,18.0,,r
+523,51745,Yanki Erel,TUR,73,24.0,178.0,l
+524,6219,Dominic Thiem,AUT,72,31.0,185.0,r
+525,54765,Orel Kimhi,ISR,72,21.0,173.0,r
+526,44894,Kirill Kivattsev,RUS,72,27.0,,
+527,31735,Daniel Cukierman,ISR,71,29.0,,r
+528,5528,Evgeny Donskoy,RUS,71,34.0,185.0,r
+529,53897,Peter Fajta,HUN,71,22.0,,r
+530,26011,Yusuke Takahashi,JPN,71,27.0,170.0,r
+531,53762,Emile Hudd,GBR,71,,,r
+532,54734,Bruno Kuzuhara,USA,71,21.0,,r
+533,51853,Nikolay Vylegzhanin,RUS,71,24.0,,r
+534,52934,Eric Vanshelboim,UKR,71,23.0,,
+535,6235,Joao Domingues,POR,70,31.0,178.0,r
+536,52756,Garrett Johns,USA,70,24.0,,
+537,52771,Dominik Palan,CZE,70,24.0,,
+538,53487,Egor Agafonov,RUS,70,22.0,,r
+539,5006,Illya Marchenko,UKR,69,37.0,185.0,r
+540,6313,Harrison Adams,USA,69,30.0,,r
+541,55182,Joao Eduardo Schiessl,BRA,69,20.0,,l
+542,55177,Iliyan Radulov,BUL,69,19.0,187.0,r
+543,52684,Oleksii Krutykh,UKR,69,25.0,185.0,r
+544,54474,Viacheslav Bielinskyi,UKR,68,21.0,71.0,r
+545,52600,Ryuki Matsuda,JPN,68,25.0,,
+546,6267,Liam Broady,GBR,67,31.0,183.0,l
+547,54430,Leo Borg,SWE,67,21.0,183.0,r
+548,47116,Keegan Smith,USA,67,26.0,,
+549,54859,Julio Cesar Porras,ARG,66,27.0,,l
+550,10596,Elmar Ejupovic,BIH,66,32.0,,r
+551,52605,Cannon Kingsley,USA,65,23.0,,
+552,45317,Eduardo Ribeiro,BRA,65,27.0,,
+553,53151,Inaki Montes De La Torre,ESP,64,22.0,,
+554,51800,Arthur Weber,FRA,64,32.0,,l
+555,32528,Alberto Barroso Campos,ESP,64,28.0,,r
+556,34577,Alexis Gautier,FRA,64,28.0,,
+557,53917,Martin Krumich,CZE,64,,,
+558,54005,Juan Carlos Aguilar,CAN,63,,,
+559,45051,Felix Corwin,USA,63,28.0,,
+560,22377,Juan Pablo Paz,ARG,63,30.0,170.0,r
+561,47054,Lorenzo Joaquin Rodriguez,ARG,62,25.0,,r
+562,5792,Mirza Basic,BIH,62,33.0,188.0,r
+563,55201,Ryotaro Taguchi,JPN,62,24.0,,
+564,54845,Antoine Ghibaudo,FRA,62,20.0,,r
+565,25612,Dominik Kellovsky,CZE,62,28.0,,
+566,53688,Blaise Bicknell,JAM,61,,191.0,r
+567,54442,Alex Barrena,ARG,61,,,
+568,53873,Alec Beckley,RSA,61,,183.0,r
+569,25980,Strong Kirchheimer,USA,61,29.0,185.0,r
+570,52853,Alexandr Binda,RUS,61,23.0,,r
+571,45154,Leonardo Aboian,ARG,61,26.0,,
+572,54828,Alejo Sanchez Quilez,ESP,61,19.0,,r
+573,52638,Alex Martinez,ESP,60,24.0,,
+574,54654,Woobin Shin,KOR,60,21.0,,r
+575,45494,Sergey Fomin,UZB,60,24.0,180.0,r
+576,54809,Jacob Bradshaw,AUS,60,22.0,,r
+577,53216,Mario Gonzalez Fernandez,ESP,60,22.0,,
+578,53068,Radu Mihai Papoe,ROU,59,22.0,,r
+579,52399,George Loffhagen,GBR,59,23.0,188.0,r
+580,26009,Alex Rybakov,USA,59,28.0,,
+581,11409,Nick Chappell,USA,59,32.0,,l
+582,45144,San Hui Sin,KOR,59,28.0,,
+583,53472,Keisuke Saitoh,JPN,59,23.0,,l
+584,34172,Tim Handel,GER,59,28.0,,r
+585,6276,Filip Peliwo,CAN,59,31.0,180.0,r
+586,44525,Rigele Te,CHN,58,27.0,188.0,r
+587,54746,Andres Martin,USA,58,23.0,183.0,r
+588,6277,Luke Saville,AUS,58,31.0,188.0,r
+589,25923,Nino Serdarusic,CRO,58,28.0,191.0,r
+590,54917,Diego Dedura Palomero,GER,58,17.0,,l
+591,54748,Aryan Shah,IND,58,19.0,,r
+592,54855,Edward Winter,AUS,58,20.0,,r
+593,46952,Ye Cong Mo,CHN,58,24.0,,
+594,54510,Ilya Snitari,MDA,58,,188.0,r
+595,5800,Maximilian Neuchrist,AUT,57,33.0,,r
+596,53997,Max Basing,GBR,57,,,
+597,54716,Kilian Feldbausch,SUI,57,19.0,,r
+598,46981,Carlos Gimeno Valero,ESP,57,23.0,191.0,r
+599,50479,Arthur Reymond,FRA,57,26.0,,
+600,53956,Aristotelis Thanos,GRE,57,,,r
+601,51785,Hamish Stewart,GBR,57,25.0,,r
+602,46897,Hikaru Shiraishi,JPN,57,24.0,,
+603,52802,Gianmarco Ferrari,ITA,57,24.0,,
+604,44588,Eero Vasa,FIN,57,28.0,185.0,r
+605,45433,Elliot Benchetrit,MAR,56,26.0,193.0,r
+606,53925,Bautista Vilicich,ARG,56,,,
+607,54454,Liam Gavrielides,GER,56,21.0,,
+608,45372,Vladyslav Orlov,UKR,56,29.0,188.0,r
+609,54692,Juan Estevez,ARG,56,19.0,,r
+610,5717,Steven Diez,CAN,55,34.0,175.0,r
+611,55192,Juan Manuel La Serna,ARG,55,21.0,,l
+612,51395,Antoine Cornut Chauvinc,FRA,54,24.0,,
+613,44688,Mikalai Haliak,BLR,54,26.0,,r
+614,52417,Igor Gimenez,BRA,54,25.0,,r
+615,44743,Constantin Bittoun Kouzmine,FRA,54,26.0,,l
+616,53734,Diego Augusto Barreto Sanchez,ESP,54,22.0,,
+617,52271,Tristan Mccormick,USA,54,,,
+618,5929,Federico Gaio,ITA,53,33.0,180.0,r
+619,44691,Edoardo Lavagno,ITA,53,26.0,,l
+620,54787,Andrej Nedic,BIH,53,20.0,185.0,r
+621,22374,Nam Hoang Ly,VIE,53,28.0,175.0,r
+622,44696,Louis Wessels,GER,52,26.0,198.0,r
+623,25959,Antonie Hoang,FRA,51,29.0,,r
+624,47182,Alastair Gray,GBR,51,26.0,,r
+625,47023,Florian Broska,GER,51,27.0,,r
+626,52870,Fabrizio Andaloro,ITA,51,24.0,,
+627,46912,Louis Dussin,FRA,51,25.0,,r
+628,45483,Yuki Mochiduki,JPN,51,27.0,,
+629,52322,Dusan Obradovic,SRB,51,24.0,,
+630,54763,Olaf Pieczkowski,POL,51,21.0,,r
+631,54660,Emilien Demanet,BEL,51,19.0,,
+632,45042,Mate Valkusz,HUN,50,26.0,183.0,r
+633,55166,Aidan Kim,USA,50,20.0,,r
+634,54523,Dev Javia,IND,50,,,
+635,4927,Kenny De Schepper,FRA,50,37.0,203.0,l
+636,54703,Yaroslav Demin,RUS,50,19.0,,r
+637,44680,Adrian Oetzbach,GER,50,27.0,,
+638,6172,Jason Kubler,AUS,49,31.0,178.0,r
+639,55186,Oliver Tarvet,GBR,49,21.0,,
+640,5922,Filip Krajinovic,SRB,49,33.0,185.0,r
+641,6026,Peter Heller,GER,49,32.0,,r
+642,54858,Alvin Nicholas Tudorica,CAN,49,23.0,,
+643,55172,Mitsuki Wei Kang Leong,MAS,49,20.0,,r
+644,53748,Sebastian Gima,ROU,49,,,
+645,5550,Alessandro Giannessi,ITA,48,34.0,185.0,l
+646,55239,Mae Malige,FRA,48,19.0,,r
+647,54101,Tibo Colson,BEL,48,24.0,,
+648,26430,Johan Nikles,SUI,48,28.0,173.0,r
+649,54764,Martyn Pawelski,POL,48,20.0,196.0,r
+650,54643,Mariano Tammaro,ITA,48,21.0,,
+651,34059,Jacob Brumm,USA,48,26.0,,
+652,54711,Trevor Svajda,USA,47,18.0,,r
+653,53949,Timo Legout,FRA,47,,,r
+654,52209,Mateo Barreiros Reyes,BRA,47,24.0,,
+655,47129,Ben Jones,GBR,47,26.0,,r
+656,45120,Aziz Ouakaa,TUN,47,25.0,,
+657,5930,Juan Sebastian Gomez,COL,46,33.0,178.0,r
+658,5577,Gerald Melzer,AUT,46,34.0,188.0,l
+659,54649,Kenta Miyoshi,JPN,46,21.0,,r
+660,47018,Savva Polukhin,RUS,46,26.0,,
+661,46861,Ewen Lumsden,GBR,46,25.0,,
+662,54824,Sebastian Sorger,AUT,46,19.0,,r
+663,46993,Imanol Lopez Morillo,ESP,46,25.0,,r
+664,54836,Leonardo Rossi,ITA,46,22.0,,r
+665,53695,Quinn Vandecasteele,USA,45,,,
+666,23834,Gergely Madarasz,HUN,45,30.0,,
+667,55193,Branko Djuric,SRB,45,20.0,188.0,r
+668,26526,Denys Klok,UKR,45,26.0,,
+669,52141,Buvaysar Gadamauri,BEL,45,24.0,,
+670,54438,Amr Elsayed Abdou Ahmed Mohamed,EGY,45,26.0,185.0,r
+671,6383,Wishaya Trongcharoenchaikul,THA,45,30.0,193.0,r
+672,52398,Harry Wendelken,GBR,45,23.0,,
+673,53766,Olle Wallin,SWE,44,,,
+674,51816,Karl Poling,USA,44,25.0,,
+675,52402,Thanapet Chanta,THA,44,25.0,,r
+676,45454,Evan Zhu,USA,44,26.0,185.0,r
+677,52946,Deney Wassermann,NED,44,24.0,,r
+678,47088,Franco Ribero,ARG,44,25.0,,
+679,52171,Maik Steiner,GER,44,30.0,,
+680,54800,Kyle Kang,USA,43,20.0,,r
+681,53687,Samir Banerjee,USA,43,,,
+682,34255,Antoine Bellier,SUI,43,28.0,196.0,l
+683,54790,Sander Jong,NED,43,24.0,,r
+684,52448,Juan Alejandro Hernandez Serrano,MEX,43,25.0,,r
+685,52909,Maxwell Mckennon,USA,43,22.0,,l
+686,55196,John Sperle,GER,43,23.0,,
+687,51190,Luca Potenza,ITA,42,24.0,,
+688,23873,Colin Sinclair,AUS,42,30.0,188.0,r
+689,26339,David Pichler,AUT,42,29.0,,r
+690,54471,Alejandro Manzanera Pertusa,ESP,42,22.0,,
+691,54095,Tom Paris ,FRA,41,,,
+692,44700,Siddharth Vishwakarma,IND,41,30.0,191.0,l
+693,54668,Loann Massard ,FRA,41,19.0,,
+694,46873,Aleksandr Braynin,UKR,41,25.0,,
+695,52745,Noah Schachter,USA,41,25.0,,r
+696,52670,Diego Fernandez Flores,CHI,41,24.0,,
+697,53954,Samir Hamza Reguig,ALG,41,,,
+698,44614,Christian Sigsgaard,DEN,40,28.0,,
+699,45088,Ulises Blanch,USA,40,27.0,,r
+700,52730,Adam Neff,USA,40,23.0,183.0,r
+701,53647,Linang Xiao,CHN,40,,,
+702,54688,Peter Buldorini,ITA,40,20.0,,r
+703,55173,Massimo Giunta,ITA,40,20.0,,r
+704,53932,Luca Castagnola,ITA,40,,,
+705,52739,John Echeverria,ESP,40,23.0,,
+706,33603,Ignacio Monzon,ARG,40,27.0,,
+707,47139,Tsung Hao Huang,TPE,40,25.0,,
+708,53875,Devin Badenhorst,RSA,39,,,r
+709,5644,Marius Copil,ROU,39,34.0,191.0,r
+710,55069,Theo Papamalamis,FRA,39,19.0,183.0,r
+711,45267,Maxence Beauge,FRA,39,24.0,,
+712,54850,Maxence Rivet,FRA,39,21.0,,l
+713,54863,Albert Pedrico Kravtsov,ESP,38,19.0,,
+714,52390,William Grant,USA,38,24.0,,r
+715,55174,Erik Arutiunian,BLR,38,20.0,,r
+716,51386,Niccolo Catini,ITA,38,27.0,,
+717,17196,Duck Hee Lee,KOR,37,26.0,175.0,r
+718,51997,Taisei Ichikawa,JPN,37,24.0,,
+719,17199,Cem Ilkel,TUR,37,29.0,185.0,r
+720,51193,Lautaro Agustin Falabella,ARG,37,27.0,,
+721,54646,Jack Loge,BEL,37,20.0,,
+722,53993,Faris Zakaryia,EGY,37,23.0,185.0,r
+723,51237,Zura Tkemaladze,GEO,37,24.0,188.0,r
+724,33780,Sergi Perez Contri,ESP,37,27.0,,
+725,45093,Alex Knaff,LUX,37,27.0,193.0,r
+726,5303,Joao Sousa,POR,36,36.0,185.0,r
+727,6213,Ji Sung Nam,KOR,36,31.0,,r
+728,51210,Trey Hilderbrand,USA,36,24.0,,
+729,53520,Johan Alexander Rodriguez Rodriguez,COL,36,,,r
+730,45008,Andrey Chepelev,RUS,36,26.0,,l
+731,52149,Marlon Vankan,GER,36,24.0,,
+732,54885,Rudy Quan,USA,35,19.0,,
+733,5565,Vasek Pospisil,CAN,35,34.0,193.0,r
+734,54807,Ozan Baris,USA,35,21.0,,r
+735,54465,Dali Blanch,USA,35,,,
+736,46908,Kousuke Ogura,JPN,35,29.0,,
+737,6200,Oscar Otte,GER,34,31.0,193.0,r
+738,54433,Karlis Ozolins,LAT,34,,196.0,r
+739,54695,Mikhail Gorokhov,RUS,34,21.0,,
+740,55184,Samuele Pieri,ITA,34,23.0,,r
+741,46890,Juan Bautista Otegui,ARG,34,26.0,,r
+742,5854,Wilson Leite,BRA,34,33.0,,r
+743,47031,Simon Beaupain,BEL,34,25.0,,
+744,55027,Gavin Young,USA,33,22.0,,
+745,45417,Lorenzo Bocchi,ITA,33,27.0,,r
+746,55171,Patrick Brady,GBR,33,20.0,,r
+747,55422,Filip Jeff Planinsek,SLO,33,23.0,,r
+748,51834,Taha Baadi,CAN,33,23.0,,
+749,45396,Alexander Donski,CAN,33,26.0,,
+750,53763,Lorenzo Rottoli,ITA,33,,,
+751,51555,Luca Wiedenmann,GER,33,26.0,,r
+752,54737,Nicolas Zanellato,BRA,33,23.0,,r
+753,54651,Ioan Alexandru Chirita,ROU,33,22.0,,r
+754,47109,Ivan Marrero Curbelo,ESP,33,26.0,,
+755,31838,Nathan Ponwith,USA,33,26.0,,
+756,52766,Giuseppe La Vela,ITA,33,24.0,,r
+757,54803,Maximus Jones,THA,33,20.0,185.0,r
+758,45044,Zeke Clark,USA,33,26.0,,r
+759,54759,Michael Zheng,USA,32,21.0,,r
+760,26040,Gian Marco Moroni,ITA,32,27.0,185.0,r
+761,31825,Alfredo Perez,USA,32,27.0,,
+762,5174,Miljan Zekic,SRB,32,36.0,185.0,r
+763,6085,Salvatore Caruso,ITA,32,32.0,185.0,r
+764,52696,Adam Heinonen,SWE,32,22.0,,
+765,45525,Bogdan Pavel,ROU,32,25.0,,
+766,55169,Alexander Stater,USA,32,25.0,,r
+767,52423,Khololwam Montsi,RSA,31,22.0,,r
+768,45278,Martin Borisiouk,BLR,31,24.0,,
+769,46967,Gabriel Decamps,BRA,31,25.0,,
+770,45387,Cengiz Aksu,TUR,31,26.0,,r
+771,54943,Jakub Filip,CZE,31,19.0,,r
+772,44504,Tomohiro Masabayashi,JPN,31,27.0,,
+773,53702,Francisco Rocha,POR,31,,,
+774,55044,Adhithya Ganesan,USA,31,19.0,,r
+775,54664,Kane Bonsach Ganley,DEN,31,20.0,,
+776,33577,S D Prajwal Dev,IND,31,28.0,,r
+777,53197,Joshua Sheehy,USA,31,28.0,,
+778,55183,Leo Vithoontien,JPN,31,25.0,,l
+779,45038,Alan Fernando Rubio Fierros,MEX,30,26.0,175.0,r
+780,47146,Fabien Salle,FRA,30,25.0,,r
+781,44774,Evan Furness,FRA,30,26.0,173.0,r
+782,54782,Vuk Radjenovic,SRB,30,19.0,,r
+783,53831,Axel Garcian,FRA,30,22.0,,
+784,52897,Fausto Tabacco,ITA,30,22.0,,
+785,53854,Alexandre Reco,FRA,30,,,
+786,54987,Henry Bernet,SUI,29,18.0,,r
+787,5629,Blaz Rola,SLO,29,34.0,193.0,l
+788,6030,Nicolas Kicker,ARG,29,32.0,,r
+789,52492,James Story,GBR,29,24.0,,
+790,26376,Thomas Fancutt,AUS,29,30.0,188.0,r
+791,51299,Georgii Kravchenko,UKR,29,24.0,,r
+792,26019,Alexander Klintcharov,NZL,29,28.0,,r
+793,54895,Stefan Adrian Andreescu,ROU,29,23.0,,
+794,55198,Maxim Zhukov,RUS,29,20.0,,r
+795,44562,Louis Tessa,FRA,29,27.0,,
+796,52760,Alexandre Aubriot,FRA,29,25.0,,r
+797,47014,Maxence Bertimon,FRA,29,25.0,,
+798,5351,Jason Jung,TPE,28,35.0,180.0,r
+799,5805,Guido Andreozzi,ARG,28,33.0,183.0,r
+800,17195,Oliver Anderson,AUS,28,26.0,,
+801,6377,Adrian Bodmer,SUI,28,30.0,180.0,r
+802,54595,Gilles Arnaud Bailly,BEL,28,19.0,180.0,r
+803,54678,Pavle Marinkov,AUS,28,19.0,,r
+804,54753,Darwin Blanch,USA,28,17.0,185.0,l
+805,54432,Peter Benjamin Privara ,SVK,28,20.0,,
+806,32357,Luca Castelnuovo,SUI,28,28.0,,
+807,54696,Yanis Ghazouani Durand,FRA,28,24.0,,
+808,54742,Carlo Alberto Caniato ,ITA,28,19.0,,r
+809,54811,Michele Ribecai,ITA,28,22.0,,
+810,38265,Conner Huertas Del Pino,PER,27,29.0,188.0,r
+811,50962,Pedro Vives Marcos,ESP,27,24.0,,r
+812,52657,Etienne Donnet,FRA,27,24.0,,
+813,54801,Amaury Raynel,FRA,27,22.0,,r
+814,45277,Aliaksandr Liaonenka,BLR,27,26.0,,
+815,54676,Joaquin  Aguilar Cardozo ,URU,27,20.0,,
+816,54877,Matt Hulme,AUS,27,26.0,,r
+817,52018,Miles Jones,USA,27,24.0,,
+818,32783,Kai Wehnelt,GER,27,29.0,,r
+819,52676,Paulo Andre Saraiva Dos Santos,BRA,27,24.0,,
+820,55219,Noah Perfetti,ITA,27,23.0,,
+821,53668,Alexander Bernard,USA,26,,,
+822,53948,Ioannis Xilas,GRE,26,,,
+823,26086,Yunseong Chung,KOR,26,27.0,178.0,r
+824,54812,James Watt,NZL,26,24.0,,r
+825,53800,Evgeny Philippov,RUS,26,,,r
+826,32798,Enzo Wallart,FRA,26,28.0,,
+827,52799,Preston Brown,USA,26,23.0,,
+828,55175,Matthew William Donald,CZE,26,20.0,,r
+829,55389,Pierluigi Basile,ITA,25,18.0,,r
+830,54658,Jack Loutit,NZL,25,20.0,,l
+831,55236,Jay Dylan Hara Friend,JPN,25,21.0,,
+832,54967,Kaylan Bigun,USA,25,18.0,,l
+833,52548,Philip Hjorth,DEN,25,26.0,,
+834,54835,Filip Pieczonka,POL,25,21.0,,l
+835,52664,Axel Nefve,USA,25,24.0,,
+836,51383,Benjamin Winter Lopez,ESP,25,26.0,,
+837,44848,Makoto Ochi,JPN,25,28.0,,l
+838,54827,Lorenzo Carboni,ITA,25,19.0,,r
+839,45086,Vlad Andrei Dancu,ROU,25,26.0,,
+840,53417,Stefano Dagostino,ITA,25,21.0,,r
+841,54718,Filippo Romano,ITA,25,19.0,,r
+842,9714,Skander Mansouri,TUN,24,29.0,193.0,r
+843,6214,Juan Ignacio Londero,ARG,24,31.0,180.0,r
+844,54865,Tianhui Zhang,CHN,24,19.0,,
+845,54673,Guillaume Dalmasso ,FRA,24,22.0,,
+846,53022,Daniel Antonio Nunez,CHI,24,23.0,,
+847,55250,Ignacio Parisca,VEN,24,19.0,,
+848,33008,Francesco Ferrari,ITA,24,27.0,,
+849,55202,Jasza Szajrych,POL,24,22.0,,
+850,22135,Gabriele Maria Noce,ITA,24,29.0,,r
+851,54786,Saveliy Ivanov,RUS,24,20.0,,
+852,55205,Jack Anthrop,USA,23,21.0,,r
+853,54672,Luis Carlos Alvarez,MEX,23,20.0,,r
+854,10726,Nikola Milojevic,SRB,23,29.0,188.0,r
+855,32158,Jesse Flores,CRC,23,30.0,188.0,r
+856,54961,Lasse Poertner,GER,23,19.0,,r
+857,47080,Dan Martin,CAN,23,25.0,,
+858,11540,Michael Zhu,USA,23,32.0,,
+859,26140,Renta Tokuda,JPN,22,27.0,,
+860,6338,Matias Franco Descotte,ARG,22,30.0,191.0,r
+861,46865,Diogo Marques,POR,22,25.0,,
+862,45503,Adil Kalyanpur,IND,22,25.0,,r
+863,54866,Sebastian Eriksson,SWE,22,19.0,,r
+864,54670,Dragos Nicolae Cazacu,ROU,22,21.0,,l
+865,47073,Dhakshineswar Suresh,IND,21,25.0,,r
+866,53078,Alexander Kotzen,USA,21,24.0,,
+867,54657,Mees Rottgering,NED,21,17.0,,l
+868,51814,Cyril Vandermeersch,FRA,21,25.0,,
+869,5733,Karim Mohamed Maamoun,EGY,21,34.0,175.0,r
+870,53652,Yuta Kikuchi,JPN,21,,,
+871,52077,Sheng Tang,CHN,21,25.0,,
+872,54822,Sasa Markovic,SRB,21,19.0,,r
+873,54864,Matthew Summers,GBR,21,26.0,,l
+874,32621,Luca Giacomini,ITA,21,27.0,,
+875,23601,Collin Altamirano,USA,21,29.0,,r
+876,54667,Michael Bassem Sobhy,EGY,21,20.0,,r
+877,52863,Mihai Razvan Marinescu,ROU,21,23.0,,
+878,55372,Maximilian Homberg,GER,20,22.0,,r
+879,38600,Timo Stodder,GER,20,28.0,,
+880,54792,Maxim Mrva,CZE,20,17.0,,
+881,33903,Kuan Yi Lee,TPE,20,28.0,,r
+882,53485,Seita Watanabe,JPN,20,24.0,,
+883,54685,Alessandro Bellifemine,ITA,20,23.0,,r
+884,44949,Mykyta Mashtakov,UKR,20,26.0,,
+885,55203,Luca Fantini,ITA,20,24.0,,r
+886,51891,Illia Biloborodko,UKR,20,23.0,,
+887,6118,Toby Martin,GBR,20,32.0,,r
+888,44705,Kristjan Tamm,EST,20,26.0,185.0,r
+889,52890,Taiyo Yamanaka,JPN,20,23.0,,
+890,47117,Jesse Delaney,AUS,20,26.0,,
+891,21105,Oscar Jose Gutierrez,BRA,20,31.0,,r
+892,55170,Seydina Andre,SEN,20,21.0,,
+893,45263,Grigoriy Lomakin,KAZ,20,27.0,,
+894,55168,Pierre Yves Bailly,BEL,19,21.0,,
+895,44455,Niki Kaliyanda Poonacha,IND,19,29.0,191.0,r
+896,55048,Rafael Jodar,ESP,19,18.0,,
+897,44456,Kaito Uesugi,JPN,19,29.0,,
+898,52215,Manuel Mazza,ITA,19,25.0,,
+899,55488,Felix Balshaw,FRA,19,18.0,,
+900,52206,Martin Van Der Meerschen,BEL,19,24.0,,
+901,52407,Alec Deckers,NED,19,24.0,,r
+902,54675,Pawit Sornlaksup,THA,19,25.0,,
+903,54650,Cooper Williams,USA,19,19.0,,r
+904,54504,Giorgio Tabacco,ITA,19,,,
+905,11551,Henrik Wiersholm,USA,19,28.0,,r
+906,25654,Niels Lootsma,NED,19,30.0,193.0,r
+907,34167,Sebastian Prechtel,GER,19,28.0,,
+908,54655,Petr Brunclik,CZE,19,18.0,,l
+909,55269,Iannis Miletich,ITA,19,19.0,,
+910,52026,Sidane Pontjodikromo,NED,19,24.0,,
+911,55190,Amit Vales,ISR,19,19.0,,
+912,46976,Kuzey Cekirge,TUR,19,24.0,,
+913,52765,Gabriele Bosio,ITA,19,24.0,,
+914,53830,Pietro Marino,ITA,19,,,r
+915,54484,Benito Sanchez Martinez,GER,18,22.0,,r
+916,4726,Ivan Nedelko,RUS,18,38.0,185.0,r
+917,54719,Patrick Schoen,SUI,18,19.0,,r
+918,53536,John Hallquist Lithen,SWE,18,23.0,,l
+919,55209,Tyler Stice,USA,18,24.0,,
+920,26138,Sora Fukuda,JPN,18,27.0,,l
+921,55164,Viktor Jovic,SRB,18,23.0,,
+922,54720,Niccolo Baroni,ITA,18,21.0,,
+923,54781,Victor Lilov,USA,18,21.0,,r
+923,55206,Elgin Khoeblal,NED,18,23.0,,
+925,54815,Matyas Cerny,CZE,18,23.0,,r
+926,54708,Oliver Ojakaar,EST,18,20.0,191.0,r
+926,52445,Ignacio Antonio Becerra Otarola,CHI,18,24.0,,
+928,31801,Mwendwa Mbithi,USA,18,27.0,,r
+929,51954,Daniel Paty,CZE,18,25.0,,r
+930,54869,Tomasz Berkieta,POL,18,18.0,,r
+931,55214,Hayato Matsuoka,JPN,18,20.0,,r
+932,55288,Niccolo Ciavarella,ITA,18,21.0,,r
+933,47149,Tadeas Paroulek,CZE,17,25.0,,
+934,54900,Petar Jovanovic,MNE,17,21.0,,
+935,54933,Daniel Milavsky,USA,17,23.0,,
+936,20763,Maciej Rajski,POL,17,33.0,,
+937,54093,Nino Ehrenschneider,GER,17,,,
+938,55200,Adit Sinha,USA,17,21.0,,r
+939,53843,Alan Magadan,MEX,17,,,
+940,45487,Yuta Kawahashi,JPN,17,27.0,,
+941,45000,Manish Sureshkumar,IND,17,25.0,,r
+942,54767,Adrien Gobat,FRA,17,23.0,,r
+943,46974,Gregor Ramskogler,AUT,17,26.0,,r
+944,52997,Matt Kuhar,USA,17,28.0,,
+945,54880,Josip Simundza,CRO,17,20.0,,l
+946,54873,Artur Kukasian,RUS,17,21.0,,
+947,54910,Nicolas Jadoun,FRA,17,22.0,,
+948,54652,Brian Bozemoj,NED,17,21.0,,
+949,34301,Patrick Kaukovalta,FIN,17,26.0,193.0,r
+950,53982,Corban Crowther,NZL,17,,,
+951,45099,Niklas Schell,GER,17,26.0,,r
+952,52263,Savriyan Danilov,RUS,16,24.0,,r
+953,4903,Jose Rubin Statham,NZL,16,37.0,180.0,r
+954,53304,Eric Hadigian,USA,16,25.0,,
+955,52662,Emilien Voisin,FRA,16,24.0,,r
+956,44439,Ryotero Matsumura,JPN,16,,,
+956,52521,Arda Azkara,TUR,16,22.0,,
+958,55213,Benjamin Thomas George,CAN,16,22.0,,l
+959,25639,Mert Naci Turker,TUR,16,26.0,,
+960,45153,Tomas Curras Abasolo,ESP,16,24.0,,
+961,45493,Daisuke Sumizawa,JPN,16,26.0,,
+962,54977,Chirag Duhan,IND,16,21.0,,
+963,53260,Andrew Fenty,USA,16,25.0,,r
+964,54488,Ali Habib,GBR,16,,,
+965,53143,Thiago Cigarran,ARG,16,25.0,,
+966,54772,Sergio Callejon Hernando,ESP,16,20.0,,
+967,54653,Pablo Trochu ,FRA,16,21.0,,
+968,44831,Quentin Folliot,FRA,15,26.0,,
+969,5626,Daniel Cox,GBR,15,34.0,170.0,r
+970,45420,Isaiah Strode,USA,15,27.0,,r
+971,54897,Aristarkh Safonov,RUS,15,22.0,,
+972,54853,Mariano Dedura Palomero,GER,15,19.0,,
+973,54802,Hayden Jones,AUS,15,18.0,,r
+974,26755,Chan Yeong Oh,KOR,15,26.0,,
+975,54983,Andrin Casanova,SUI,15,20.0,,r
+977,55189,Derek Pham,AUS,15,21.0,,r
+978,53264,Isaac Becroft,NZL,15,24.0,,
+979,47058,Fermin Tenti,ARG,15,27.0,,
+980,52121,Stefan Latinovic,SRB,15,25.0,,
+981,51982,Mert Alkaya,TUR,15,24.0,,
+982,51750,Fitriadi M Rifqi,INA,15,26.0,175.0,r
+983,54896,Aleksa Pisaric,SRB,15,19.0,,r
+984,46909,Benjamin Pietri,FRA,15,28.0,,
+985,52862,Gian Marco Ortenzi,ITA,15,25.0,,
+986,26131,Gabriel Donev,BUL,15,28.0,,
+987,45023,Matteo De Vincentis,ITA,15,26.0,,l
+988,53849,Andrea Fiorentini,ITA,15,,,
+989,52092,Zhenxiong Dong,CHN,15,26.0,,l
+990,54492,Thijmen Loof,NLD,15,,,
+991,45011,Luc Fomba,FRA,15,26.0,,
+991,53909,Jan Kupcic,SLO,15,,,
+993,55126,Fernando Cavallo,ARG,15,19.0,,r
+994,5053,Aldin Setkic,BIH,15,37.0,191.0,r
+994,54964,Abel Forger,NED,15,19.0,,r
+996,26384,Juan Sebastian Osorio,COL,15,27.0,,
+997,55211,Dylan Dietrich,SUI,14,20.0,,r
+998,46938,Uisung Park,KOR,14,24.0,,r
+999,22315,Guy Orly Iradukunda,BDI,14,29.0,,
+1000,53042,Semen Pankin,RUS,14,25.0,,r
+1001,25968,Aoran Wang,CHN,14,28.0,,r
