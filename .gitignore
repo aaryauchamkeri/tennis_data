@@ -1,3 +1,5 @@
 ./scrapers/.ipynb_checkpoints
 ./venv
 .gitignore
+.idea
+.DS_Store
