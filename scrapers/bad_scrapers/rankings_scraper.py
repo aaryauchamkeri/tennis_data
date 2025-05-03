@@ -26,5 +26,5 @@ for player in res:
 
 print(csv)
 
-with open('../rankings.csv', 'w') as w:
+with open('../player_scrapers/rankings.csv', 'w') as w:
     w.write(csv)

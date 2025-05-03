@@ -29,7 +29,7 @@ def extract_data(pid: str):
 
     return data_string
 
-with open('../rankings.csv', 'r') as file:
+with open('../player_scrapers/rankings.csv', 'r') as file:
     csv_reader = csv.reader(file)
     header = next(csv_reader)
 
@@ -37,5 +37,5 @@ with open('../rankings.csv', 'r') as file:
     for row in csv_reader:
         result += extract_data(row[1]) + '\n'
 
-    with open('../player_data.csv', 'w') as file:
+    with open('../player_scrapers/player_data.csv', 'w') as file:
         file.write(result)
